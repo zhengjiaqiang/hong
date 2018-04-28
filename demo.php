@@ -9,6 +9,6 @@ function p($data)
   exit();
 }
 
-
+  echo 'hello hello hello '
 
  ?>
